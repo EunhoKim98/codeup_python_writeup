@@ -1,3 +1,3 @@
-a,b = input().split('-')
+a,b = input()
 
 print(a,b,sep='') 
